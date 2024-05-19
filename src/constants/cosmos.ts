@@ -3,5 +3,5 @@ export const COSMOS_ADDRESS_PREFIX = {
   irishub: 'iaa',
   kava: 'kava',
   columbus: 'terra',
-  discoverynet: 'terra',
+  discoverynet: 'ssi',
 };
